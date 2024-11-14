@@ -1,4 +1,5 @@
 
+// My first javascript code
 //document.getElementById("count-el").innerText = 115;
 
 let count = 0;
